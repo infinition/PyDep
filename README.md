@@ -1,6 +1,7 @@
 # PyDep
 PyDep is a Python script designed to analyze and visualize the dependencies within a Python project. It recursively scans the specified directory for Python files, extracts import statements and file interactions (CSV and JSON), and generates an interactive dependency graph using NetworkX and Plotly.
 
+![Capture d'écran 2024-06-10 153809](https://github.com/infinition/PyDep/assets/37984399/46574c69-b0f9-4204-b43e-b9c6e57ee367)
 
 Features
 Recursive Python File Search: Finds all Python files in a specified directory, with options to ignore certain subdirectories.
