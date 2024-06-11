@@ -15,7 +15,7 @@ pip install networkx plotly numpy
 Clone the repository or download the script directly:
 
 
-git clone https://github.com/yourusername/pydep.git
+git clone https://github.com/infinition/pydep.git
 cd pydep
 Usage
 To run the script, follow these steps:
