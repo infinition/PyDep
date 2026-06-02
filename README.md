@@ -1,4 +1,6 @@
-# PyDep
+﻿# PyDep
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infinition)
 
 ![IMG_0847](https://github.com/infinition/PyDep/assets/37984399/0663c495-29c1-417b-92fe-175e79a0efe0)
 
@@ -68,4 +70,4 @@ Enter the directories to ignore, separated by commas: tests, docs
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT. See [LICENSE](LICENSE).
